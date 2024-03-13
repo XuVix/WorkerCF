@@ -1,9 +1,15 @@
 # WorkerCF
 
 > [!IMPORTANT]
-> @XuVixC
+> just you need an email accunt
 
 > [!NOTE]
+> just you need an email accunt
+
+> [!TIP]
+> just you need an email accunt
+
+> [!WARNING]
 > just you need an email accunt
 
 <p align="center">
