@@ -1,5 +1,8 @@
 # WorkerCF
 
 > [!IMPORTANT]
-> project on GitHub.
 > @XuVixC
+
+> [!NOTE]
+> just you need an email accunt
+
