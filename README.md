@@ -4,13 +4,10 @@
 > just you need an email accunt
 
 > [!NOTE]
-> just you need an email accunt
-
-> [!TIP]
-> just you need an email accunt
-
-> [!WARNING]
-> just you need an email accunt
+> To add the expiration date feature, add the following variables to the beginning of the code.
+> ```
+> code
+> ```
 
 <p align="center">
   <a target="_blank" href="https://t.me/XuvixC">
