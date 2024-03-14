@@ -11,12 +11,11 @@
 > ```
 >And remove the codes between lines 239 and 243 from the command mode
 > ```
+>if (currentDate > targetDate) {
 >
-            if (currentDate > targetDate) {
-       
-                userID = "None";
-
-            } 
+> userID = "None";
+>
+>} 
 > ```
 
 <p align="center">
