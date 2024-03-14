@@ -237,13 +237,10 @@ export default {
 
 
             /*if (currentDate > targetDate) {
-             //not active
+       
                 userID = "None";
 
-            } else {
-             //active
-                 
-            }*/
+            } */
 			
         } catch (err) {
       /** @type {Error} */ let e = err;
