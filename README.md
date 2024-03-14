@@ -3,8 +3,11 @@
 > [!IMPORTANT]
 > Worker cloudflare has a limit of 100,000 requests per day.
 
+
+# Expiry date feature 
+
 > [!NOTE]
->  To add the expiration date feature, add the following variables to the beginning of the code.
+>  First, put the following two variables at the beginning of the code and set the expiration date.
 > ```
 > const targetH = "2026-12-30T00:00:00"
 > const targetDate = new Date(targetH);
