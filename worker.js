@@ -18,7 +18,7 @@ const ipcf = [
 ];
 
 let counter = 0;
-let lable = "@XuVixC";
+let lable = "Tel : @XuVixC";
 let TLS = "2096";
 let NoneTLS = "8880";
 
@@ -236,11 +236,7 @@ export default {
 
 
 
-            /*if (currentDate > targetDate) {
-       
-                userID = "None";
-
-            } */
+            // Enter the codes here //
 			
         } catch (err) {
       /** @type {Error} */ let e = err;
