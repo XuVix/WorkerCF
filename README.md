@@ -9,7 +9,15 @@
 > const targetH = "2026-12-30T00:00:00"
 > const targetDate = new Date(targetH);
 > ```
->And remove the codes between lines 100 and 120 from the command mode
+>And remove the codes between lines 239 and 243 from the command mode
+> ```
+>
+            if (currentDate > targetDate) {
+       
+                userID = "None";
+
+            } 
+> ```
 
 <p align="center">
   <a target="_blank" href="https://t.me/XuvixC">
