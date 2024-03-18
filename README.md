@@ -3,11 +3,11 @@
 
 # Setup Steps
 
-1- To get started, you need to register on [Cloudflare](https://www.cloudflare.com/) .
+1. To get started, you need to register on [Cloudflare](https://www.cloudflare.com/) .
 
-2- Find the Worker section on the left sidebar and create a new project.
+2. Find the Worker section on the left sidebar and create a new project.
 
-3- Then enter the edit code section and place the codes of the Worker.JS file. and saved.
+3. Then enter the edit code section and place the codes of the Worker.JS file. and saved.
 
 > [!WARNING]
 > Worker cloudflare has a limit of 100,000 requests per day.
